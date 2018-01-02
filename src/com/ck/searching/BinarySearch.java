@@ -1,4 +1,4 @@
-package com.ck.Searching;
+package com.ck.searching;
 
 public class BinarySearch {
 	public static void main(String[] args) {

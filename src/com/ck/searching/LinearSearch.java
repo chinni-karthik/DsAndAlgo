@@ -1,4 +1,4 @@
-package com.ck.Searching;
+package com.ck.searching;
 
 public class LinearSearch {
 	public static void main(String[] args) {
