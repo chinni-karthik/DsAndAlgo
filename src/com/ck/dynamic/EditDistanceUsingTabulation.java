@@ -1,6 +1,6 @@
 package com.ck.dynamic;
 
-public class EditDistance {
+public class EditDistanceUsingTabulation {
 	public static void main(String[] args) {
 		String s1 = "CAT";
 		String s2 = "MBT";
