@@ -3,7 +3,7 @@ package com.ck.dynamic;
 public class CoinChangeProblem {
 	public static void main(String[] args) {
 		int n = 4;// i
-		int[] s = { 1, 2, 3 ,4};// j
+		int[] s = { 1, 2, 3};// j
 		// Table to avoid recomputation
 		int[][] table = new int[n + 1][s.length + 1];// Matrix of n*m size
 		// Filling table
