@@ -4,7 +4,7 @@ public class CoinChangeProblem {
 	public static void main(String[] args) {
 		int n = 4;// i
 		int[] s = { 1, 2, 3};// j
-		// Table to avoid recomputation
+		// Table to avoid re-computation
 		int[][] table = new int[n + 1][s.length + 1];// Matrix of n*m size
 		// Filling table
 		for (int i = 0; i < n + 1; i++) {
