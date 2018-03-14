@@ -62,6 +62,35 @@
 	XOR.
 30-Print Pairs with the given difference in sorted array
 	use hashmap.
+31-Merge k sorted arrays
+	Use min heap...!!! dead easy dude...!!!
+32-Pythagorean Triplet in an array.(pending as need to learn meet in middle algo. Its very easy. just see this once and you get it...!!!)
+33-Sorted Array to Balanced BST
+	Straight forward solution.
+	Find middle and make it root. do the same for left part and right part recurssively.
+	use any traversal to print the tree...!!!
+34-Kth largest or smallest element in an array
+	Best is to use min heap.
+	a-construct min heap in o(n)
+	b-use getMax() k times, in o(klogn)
+	total TC  is O(n+klogn)
+35-Longest Increasing Subsequence(leaving for the DS and algo preperation time)
+36-Find subarray with given sum(taking more time...)
+37-Maximum difference between two elements such that larger element appears after the smaller number(dead easy.. but see once more dude...)
+	Here we need to keep track of 2 things:
+	1) Maximum difference found so far (max_diff).
+	2) Minimum number visited so far (min_element).
+38-Find Majority Element in an array in O(n)--(seems easy.. go through the Using Moore’s Voting Algorithm once.)
+39-Find a local minima in an array(taking time dude...)
+40-Even numbers at even index and Odd numbers at odd index(need to put mind... taking time... :( )
+41-Find Union and Intersection of 2 sorted arrays
+	just like merging two sorted arrays with conditions of uinon and intersection. thats it...!!!
+42-Find missing number and duplicate number
+	make two equations for sum of n number and product of n numbers.
+	you can solve this equations from here.
+	Did not understand the xor solution.
+43-Find the smallest positive number missing from an unsorted array(need to understand)
+	
 
 ----
 Continue.. all questions are awesome...!!!
