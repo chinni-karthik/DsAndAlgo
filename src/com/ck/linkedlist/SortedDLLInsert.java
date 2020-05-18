@@ -1,11 +1,5 @@
 package com.ck.linkedlist;
 
-class Node {
-	int data;
-	Node next;
-	Node prev;
-}
-
 public class SortedDLLInsert {
 	Node SortedInsert(Node head, int data) {
 		Node p = new Node();
