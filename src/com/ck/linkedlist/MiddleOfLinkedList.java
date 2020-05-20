@@ -6,7 +6,7 @@ public class MiddleOfLinkedList {
 			return 0;
 		Node p = head;// slow pointer
 		Node q = head;// fast pointer
-		while (q.next.next != null) {
+		while (q!=null && q.next != null) {
 			p = p.next;
 			q = q.next.next;
 		}
