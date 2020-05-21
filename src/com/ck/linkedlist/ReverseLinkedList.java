@@ -2,6 +2,7 @@ package com.ck.linkedlist;
 
 public class ReverseLinkedList {
 	Node Reverse(Node head) {
+		//Base Condition
 		if (head == null) {
 			return null;
 		}
@@ -12,7 +13,7 @@ public class ReverseLinkedList {
 			p = q;
 			q = r;
 			r = r.next;
-			q.next = p;
+			q.next = p;//q is behind p. Actual reverse logic.
 		}
 		return q;
 	}
