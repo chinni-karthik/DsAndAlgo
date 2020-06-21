@@ -1,7 +1,11 @@
 package com.ck.linkedlist;
 
-class Node {
-	int data;
-	Node next;
-	Node prev;
+public class Node {
+	public int data;
+	public Node next;
+	public Node prev;
+	
+	public Node(int data) {
+		this.data = data;
+	}
 }
