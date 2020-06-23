@@ -2,7 +2,7 @@ package com.ck.general;
 
 public class FactorialRecursive {
 	public static void main(String[] args) {
-		System.out.println(fact(50));
+		System.out.println(fact(5));
 	}
 
 	static int fact(int n) {
