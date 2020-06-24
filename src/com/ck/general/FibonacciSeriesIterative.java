@@ -6,7 +6,7 @@ public class FibonacciSeriesIterative {
 		int b = 1;
 		int c = 1;
 		System.out.print(a + "," + b);
-		for (int i = 1; i <= n; i++) {// Iteration starts form 1 and not 0.
+		for (int i = 2; i < n; i++) {// Iteration starts form 1 and not 0.
 			a = b;
 			b = c;
 			c = a + b;
@@ -16,6 +16,6 @@ public class FibonacciSeriesIterative {
 	}
 
 	public static void main(String[] args) {
-		fib(7);
+		fib(8);
 	}
 }
