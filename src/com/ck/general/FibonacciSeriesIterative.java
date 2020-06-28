@@ -16,6 +16,6 @@ public class FibonacciSeriesIterative {
 	}
 
 	public static void main(String[] args) {
-		fib(8);
+		fib(10);
 	}
 }
