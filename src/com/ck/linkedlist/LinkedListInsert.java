@@ -3,12 +3,14 @@ package com.ck.linkedlist;
 public class LinkedListInsert {
 	// Start,End,at an index
 	public static Node insertFirst(Node head, int x) {
-		Node p = new Node(x);
+		Node q = new Node(x);
+		// Base Condition
 		if (head == null) {
-			return p;
+			return q;
 		}
-		p.next = head;
-		return p;
+		Node p = head;
+		q.next = p;
+		return q;
 	}
 
 	public static Node insertLast(Node head, int x) {
@@ -48,7 +50,7 @@ public class LinkedListInsert {
 				q.next = r;
 				break;
 			}
-			p=p.next;
+			p = p.next;
 			count++;
 		}
 		return head;
