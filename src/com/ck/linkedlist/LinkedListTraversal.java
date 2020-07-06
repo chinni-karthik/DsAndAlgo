@@ -9,6 +9,7 @@ public class LinkedListTraversal {
 			System.out.print(p.data + " ");
 			p = p.next;
 		}
+		System.out.println();
 	}
 	public static void linkedListTraversalNew(SinglyLinkedListNode head) {
 		if (head == null) // Base condition
