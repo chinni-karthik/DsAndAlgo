@@ -32,7 +32,7 @@ public class LinkedListInsert {
 		if (index > lenght) {
 			return null;// You can throw an exception here!
 		}
-		if (index == 0) {
+		if (index == 0 || lenght == 0) {
 			updatedLinkedList = insertFirst(head, x);
 			return updatedLinkedList;
 		}
@@ -58,11 +58,10 @@ public class LinkedListInsert {
 
 	public static void main(String[] args) {
 		Node head = new Node(16);
-		Node node27 = new Node(13);
-		Node node26 = new Node(7);
-		head.next = node27;
-		node27.next = node26;
-//		node25.next = null;
+		Node node13 = new Node(13);
+		Node node7 = new Node(7);
+		head.next = node13;
+		node13.next = node7;
 		insertAtIndex(head, 1, 2);
 		LinkedListTraversal.linkedListTraversal(head);
 	}

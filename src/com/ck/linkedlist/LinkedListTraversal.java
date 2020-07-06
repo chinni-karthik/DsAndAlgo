@@ -10,6 +10,15 @@ public class LinkedListTraversal {
 			p = p.next;
 		}
 	}
+	public static void linkedListTraversalNew(SinglyLinkedListNode head) {
+		if (head == null) // Base condition
+			return;
+		SinglyLinkedListNode p = head; // Never do any direct operation on head
+		while (p != null) {
+			System.out.print(p.data + " ");
+			p = p.next;
+		}
+	}
 
 	public static void main(String[] args) {
 		Node head = new Node(28);

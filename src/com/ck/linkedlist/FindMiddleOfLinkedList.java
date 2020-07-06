@@ -1,18 +1,23 @@
 package com.ck.linkedlist;
 
-public class MiddleOfLinkedList {
-	private static Node getMiddleElementOfLinkedList(Node head) {
-		if (head == null)// Base condition
+public class FindMiddleOfLinkedList {
+	public static Node findMiddle(Node head) {
+		if(head == null) {
 			return null;
-		Node p = head;// slow pointer
-		Node q = head;// fast pointer
-		while (q != null && q.next != null) {
-			p = p.next;
-			q = q.next.next;
+		}
+		if(head.next==null) {
+			return head;
+		}
+		Node p = head;
+		int lenght = LinkedListLength.getLinkedListLength(head);
+		int middle = (lenght/2)-1;
+		int count = 0;
+		while(count<middle) {
+			p=p.next;
+			count++;
 		}
 		return p;
 	}
-
 	public static void main(String[] args) {
 		Node head = new Node(28);
 		Node node27 = new Node(27);
@@ -23,7 +28,7 @@ public class MiddleOfLinkedList {
 		node27.next = node26;
 		node26.next = node25;
 		node25.next = node24;
-		Node middleNode = getMiddleElementOfLinkedList(head);
+		Node middleNode = findMiddle(head);
 		System.out.println(middleNode.data);
 	}
 }
