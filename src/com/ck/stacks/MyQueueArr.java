@@ -30,4 +30,8 @@ public class MyQueueArr {
 		else
 			return false;
 	}
+	
+	public int getLenght() {
+		return arr.length;
+	}
 }
