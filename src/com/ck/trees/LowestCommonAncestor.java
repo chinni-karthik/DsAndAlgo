@@ -1,17 +1,15 @@
 package com.ck.trees;
 
 public class LowestCommonAncestor {
-	static Node lca(Node root, int v1, int v2) {
+	static Node lca(Node root, int node1, int node2) {
 		if (root == null) {
 			return null;
 		}
-		if (root.data == v1 || root.data == v2) {
+		if (root.data == node1 || root.data == node2) {
 			return root;
 		}
-
-		Node Llca = lca(root.left, v1, v2);
-		Node Rlca = lca(root.right, v1, v2);
-		
+		Node Llca = lca(root.left, node1, node2);
+		Node Rlca = lca(root.right, node1, node2);
 		if (Llca == null && Rlca == null) {
 			return null;
 		}
