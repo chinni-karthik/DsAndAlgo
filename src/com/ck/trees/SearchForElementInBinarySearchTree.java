@@ -20,6 +20,6 @@ public class SearchForElementInBinarySearchTree {
 		root.right = new Node(4);
 		root.right.left = new Node(3);
 		root.right.right = new Node(6);
-		System.out.println(search(root, 3).data);
+		System.out.println(search(root, 10).data);
 	}
 }

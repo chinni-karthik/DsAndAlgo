@@ -12,7 +12,8 @@ public class IsBSTBetter {
 		if (root.data <= min || root.data > max) {
 			return false;
 		}
-		return isBSTHealper(root.left, min, root.data) && isBSTHealper(root.right, root.data, max);
+		return isBSTHealper(root.left, min, root.data) && 
+				isBSTHealper(root.right, root.data, max);
 
 	}
 }
