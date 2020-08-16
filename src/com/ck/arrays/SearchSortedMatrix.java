@@ -10,7 +10,7 @@ public class SearchSortedMatrix {
 		int i = 0, j = n - 1;
 		while (i < n && j >= 0) {
 			if (matrix[i][j] == x) {
-				System.out.print("Found number at Column: " + i + " Row: " + j);
+				System.out.print("Found number at Row: " + i + " Column: " + j);
 				return;
 			}
 			if (matrix[i][j] > x) {
@@ -27,7 +27,7 @@ public class SearchSortedMatrix {
 						{ 15, 25, 35, 45 }, 
 						{ 27, 29, 37, 48 }, 
 						{ 32, 33, 39, 50 } };
-		// mat = new int[0][0];
-		search(mat, 4, 29);
+		//mat = new int[0][0];
+		search(mat, 4, 60);
 	}
 }

@@ -29,10 +29,14 @@ public class MergingTwoSortedArraysVerbose {
 			}
 		}
 		while (i < arr1.length) {
-			result[k++] = arr1[i++];
+			result[k] = arr1[i];
+			i++;
+			k++;
 		}
 		while (j < arr2.length) {
-			result[k++] = arr2[j++];
+			result[k] = arr2[j];
+			j++;
+			k++;
 		}
 		return result;
 	}
