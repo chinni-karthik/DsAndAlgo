@@ -13,13 +13,13 @@ public class AdjMatrixGraph {
 	// Add edges
 	public void addEdge(int i, int j) {
 		adjMatrix[i][j] = true;
-	    //adjMatrix[j][i] = true;
+//	    adjMatrix[j][i] = true;
 	}
 
 	// Remove edges
 	public void removeEdge(int i, int j) {
 		adjMatrix[i][j] = false;
-		//adjMatrix[j][i] = false;
+//		adjMatrix[j][i] = false;
 	}
 
 	// Print the matrix
