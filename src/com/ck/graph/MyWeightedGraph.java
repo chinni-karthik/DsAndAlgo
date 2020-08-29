@@ -51,6 +51,4 @@ public class MyWeightedGraph {
 		return "MyWeightedGraph [numVertices=" + numVertices + ", adjLists=" + Arrays.toString(adjLists) + ", distance="
 				+ Arrays.toString(distance) + "]";
 	}
-	
-	
 }
