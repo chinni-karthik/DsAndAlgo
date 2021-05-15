@@ -2,7 +2,7 @@ package com.ck.rec.bt.dp;
 
 public class FibHeadRecursion {
 	public static void main(String[] args) {
-		System.out.println(fibHead(10));
+		System.out.println(fibHead(8));
 	}
 
 	private static int fibHead(int n) {
