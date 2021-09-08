@@ -56,7 +56,7 @@ public class Employee {
 
 	@Override
 	public String toString() {
-		return "Employee [empId=" + empId + ", empName=" + empName + "]";
+		return "EmployeeImmutable [empId=" + empId + ", empName=" + empName + "]";
 	}
 
 }
