@@ -1,0 +1,98 @@
+1-Rotate matrix by 90 degrees.(Done)
+	Rotation is done in cycles of N/2 with one temp variable.
+	every cycle corresponds to one layer in matrix.
+	store ith position in temp and proceed further in direction mentioned in problem. thats it...!!!
+2-combination sum problem (pending as backtracking)
+3-product array puzzle.(Done)
+	construct left[] , right[] and output[].
+	output[i]=left[i]+right[i];-->> That's it...!!!
+4-element missing in arithmatic progression:-(done with O(n),did not understand O(logn) using binary search)
+5-find peak element in array:- 
+	Use leniar search or O(n).
+	It can be done better by following the binary search stratagy...!!!
+6-Sort an almost sorted array where only two elements are swapped.
+	Note:- insertion sort can be used in this kind of cases as it doesnot take more than O(n) if array is almost sorted.
+	The idea is to traverse from rightmost side and find the first out of order element (element which is smaller than previous element). 
+	Once first element is found, find the other our of order element by traversing the array toward left side(in the same direction, like towoards left side.).
+	this has while loop inside a for loop, but as it is traversing the same array, the TC is O(n)
+7-Count all distinct pairs with difference equal to k
+	can use hashing , like hashSet and increment count every time the pair is found. you can also identify the pairs in the same iteration. This eliminates the duplicates also.
+	You can use the Balanced binary search tree and this can be done in o(log n) space and time.
+	or you can sort using any sorting of o(log n) and find the count.
+8-Find Buy/Sell Prices in Array of Stock Values to Maximize Profit(pending as taking more than the expected to)
+9-Merging 2 Arrays without using Extra Space
+	do it from end or the firt array as it holds the sufficient space to hold.
+	its easy  to do.
+10-Maximum difference between two elements such that larger element appears after the smaller number.
+	just update the max_diff and min_number for every iteration. this can be done in single iteration only...!!! (you already got this solution in your mind.)
+	just a very simple one.
+11-Find the minimum distance between two numbers(Left as taking more time than expected.)
+12-Count passing car pairs
+	Easy one. try coming from back of an array.
+	An efficient solution to traverse array from right, keep track of counts of 1s from right. Whenever we see a 0, we increment the result by count of 1s.
+	Thats it...!!!
+13-Largest subarray with equal number of 0s and 1s(left it out as taking more time than expected)
+14-Find a Number that Appears Only once in array of Duplicates.
+	use XOR--> ans = ans^A[i];
+15-counting sort: (left as it will be covered in searching and sorting)
+16-Sort Elements By Frequency
+	use hashing.
+17-Find the minimum distance between two numbers.
+	just a simple one. just dont confuse dude...!!!
+18-Anagram:-
+	same letters in two strings , but in different order.
+	create a count array for both strings and compare the two count arrays created. 
+	if both are same, then both are anagrams.
+19-Find the Minimum Element in the Rotated Sorted array (Stopped here dude...!!!)
+	same as 20.
+20-Find the Rotation Count in Rotated Sorted array...
+	you just need to find the index of the min element.
+	you can do this in O(n) by linear search or by O(log n) by binary search.
+21-Two elements whose sum is closest to zero(left as taking some more time... But.. its really easy...)
+22-Next Greater Element (Very immportant.. buy left as time is big concern. Need to come back to this...!!!)
+23-Leaders in an array.(done)
+	just scan from right and keep the highest for comparisions.
+24-Maximum size square sub-matrix with all 1s.(left as it is DP)
+25-Boolean matrix question. (left as it is a matrix question. But it is very important. so go back.)
+26-Replace every element with the next greatest(done)
+	traverse from right side...
+27-Program for array rotation(come back to this)
+28-Find row with maximum number of 1s in sorted matrix(left as matrix problem)
+29-Find the only number occurring odd number of times in an array.(done)
+	XOR.
+30-Print Pairs with the given difference in sorted array
+	use hashmap.
+31-Merge k sorted arrays
+	Use min heap...!!! dead easy dude...!!!
+32-Pythagorean Triplet in an array.(pending as need to learn meet in middle algo. Its very easy. just see this once and you get it...!!!)
+33-Sorted Array to Balanced BST
+	Straight forward solution.
+	Find middle and make it root. do the same for left part and right part recurssively.
+	use any traversal to print the tree...!!!
+34-Kth largest or smallest element in an array
+	Best is to use min heap.
+	a-construct min heap in o(n)
+	b-use getMax() k times, in o(klogn)
+	total TC  is O(n+klogn)
+35-Longest Increasing Subsequence(leaving for the DS and algo preperation time)
+36-Find subarray with given sum(taking more time...)
+37-Maximum difference between two elements such that larger element appears after the smaller number(dead easy.. but see once more dude...)
+	Here we need to keep track of 2 things:
+	1) Maximum difference found so far (max_diff).
+	2) Minimum number visited so far (min_element).
+38-Find Majority Element in an array in O(n)--(seems easy.. go through the Using Moore’s Voting Algorithm once.)
+39-Find a local minima in an array(taking time dude...)
+40-Even numbers at even index and Odd numbers at odd index(need to put mind... taking time... :( )
+41-Find Union and Intersection of 2 sorted arrays
+	just like merging two sorted arrays with conditions of uinon and intersection. thats it...!!!
+42-Find missing number and duplicate number
+	make two equations for sum of n number and product of n numbers.
+	you can solve this equations from here.
+	Did not understand the xor solution.
+43-Find the smallest positive number missing from an unsorted array(need to understand)
+	
+
+----
+Continue.. all questions are awesome...!!!
+
+	

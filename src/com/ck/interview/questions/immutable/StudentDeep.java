@@ -3,7 +3,7 @@ package com.ck.interview.questions.immutable;
 class StudentDeep implements Cloneable {
     int id;
     String name;
-    Course course;
+    CourseDeep course;
 
     public StudentDeep(int id, String name, CourseDeep course) {
         this.id = id;

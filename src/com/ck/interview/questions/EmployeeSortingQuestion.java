@@ -9,11 +9,11 @@ import java.util.List;
 
 public class EmployeeSortingQuestion {
 	public static void main(String[] args) {
-		EmployeeImmutable emp1 = new EmployeeImmutable(1, "ghi");
-		EmployeeImmutable emp2 = new EmployeeImmutable(2, "def");
-		EmployeeImmutable emp3 = new EmployeeImmutable(3, "abc");
-		EmployeeImmutable emp4 = new EmployeeImmutable(4, "xyz");
-		List<EmployeeImmutable> empList = new ArrayList<>();
+		Employee emp1 = new Employee(1, "ghi");
+		Employee emp2 = new Employee(2, "def");
+		Employee emp3 = new Employee(3, "abc");
+		Employee emp4 = new Employee(4, "xyz");
+		List<Employee> empList = new ArrayList<>();
 		empList.add(emp1);
 		empList.add(emp2);
 		empList.add(emp3);
@@ -27,15 +27,15 @@ public class EmployeeSortingQuestion {
 		empList.sort(Comparator.comparing(e -> e.getEmpName()));
 		System.out.println(empList);
 		System.out.println("After Java8 EmployeeSorting reversed");
-		Comparator<EmployeeImmutable> empReverseComparator = Comparator.comparing(e -> e.getEmpName());
+		Comparator<Employee> empReverseComparator = Comparator.comparing(e -> e.getEmpName());
 		empList.sort(empReverseComparator.reversed());
 		System.out.println(empList);
 	}
 }
 
-class EmpNameSorter implements Comparator<EmployeeImmutable> {
+class EmpNameSorter implements Comparator<Employee> {
 	@Override
-	public int compare(EmployeeImmutable obj1, EmployeeImmutable obj2) {
+	public int compare(Employee obj1, Employee obj2) {
 		return obj1.getEmpName().compareTo(obj2.getEmpName());
 	}
 }
@@ -83,7 +83,7 @@ class Employee {
 			return false;
 		if (getClass() != obj.getClass())
 			return false;
-		EmployeeImmutable other = (EmployeeImmutable) obj;
+		Employee other = (Employee) obj;
 		if (empId != other.empId)
 			return false;
 		if (empName == null) {
