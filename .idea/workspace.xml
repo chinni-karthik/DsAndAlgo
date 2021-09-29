@@ -2,7 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1f632ed-93e4-4bb7-9b81-12d528b8f272" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/PrintNumbersUsingThreeThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/ds/Array0s1sProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/ds/LinkedListTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/ds/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/ds/SinglyLinkedListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/ds/SortAbsolutelySortedLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/InterviewQuestions/DS Interview Questions.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/InterviewQuestions/DS Interview Questions.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/AutoClosableExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/Computation1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/Computation2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/CountDownLatchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/CustomMarkerInterfaceExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/CyclicBarrierDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/EmpNameSorter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/EmployeeSortingQuestion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/EvenOddTwoThreads$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/EvenOddTwoThreads$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/EvenOddTwoThreads.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/ExternalizableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/LimitedHashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/NumberRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/ParallelStreamExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/ParallelStreamWithOrderedIteration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/PassByValueReference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/PrintNumbersUsingThreeThreads.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/RemoveArrayListDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/ReverseInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/SequentialStreamDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/SingletonClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/SortMapByValues$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/SortMapByValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/TransientExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/VolatileExmaple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/immutable/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/immutable/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/immutable/CourseDeep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/immutable/DeepCopyInJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/immutable/EmployeeImmutable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/immutable/ShallowCopyInJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/immutable/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/immutable/StudentDeep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DsAndAlgo/com/ck/interview/questions/serializableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/AutoClosableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/AutoClosableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/CountDownLatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/CustomMarkerInterfaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/CustomMarkerInterfaceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/CyclicBarrierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/CyclicBarrierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/DeadLockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/DeadLockExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/EmployeeSortingQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/EmployeeSortingQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/EvenOddTwoThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/EvenOddTwoThreads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/ExternalizableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/ExternalizableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/LimitedHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/LimitedHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/ParallelStreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/ParallelStreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/ParallelStreamWithOrderedIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/ParallelStreamWithOrderedIteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/PassByValueReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/PassByValueReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/PrintNumbersUsingThreeThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/PrintNumbersUsingThreeThreads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/ProducerConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/ProducerConsumerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/RemoveArrayListDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/RemoveArrayListDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/ReverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/SequentialStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/SequentialStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/SingletonClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/SingletonClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/SortMapByValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/SortMapByValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/TransientExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/TransientExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/UnModifiableCollectionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/UnModifiableCollectionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/VolatileExmaple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/VolatileExmaple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/immutable/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/immutable/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/immutable/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/immutable/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/immutable/CourseDeep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/immutable/CourseDeep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/immutable/DeepCopyInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/immutable/DeepCopyInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/immutable/EmployeeImmutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/immutable/EmployeeImmutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/immutable/ShallowCopyInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/immutable/ShallowCopyInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/immutable/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/immutable/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/immutable/StudentDeep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/immutable/StudentDeep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/interview/questions/serializableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/java/serializableDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,99 +96,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/immutable/StudentDeep.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/LimitedHashSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/EvenOddTwoThreads.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/CountDownLatchDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/CyclicBarrierDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/Array0s1sProgram.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="167">
-              <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ck/linkedlist/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ck/linkedlist/LinkedListTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="35" selection-start-line="2" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/LinkedListTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ck/linkedlist/SinglyLinkedListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/PrintNumbersUsingThreeThreads.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/SortAbsolutelySortedLL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/EmployeeSortingQuestion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="85" column="34" selection-start-line="85" selection-start-column="34" selection-end-line="85" selection-end-column="34" />
-              <folding>
-                <element signature="e#1292#1293#0" expanded="true" />
-                <element signature="e#1352#1353#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/RemoveArrayListDuplicates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="18" column="85" selection-start-line="18" selection-start-column="85" selection-end-line="18" selection-end-column="85" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/immutable/EmployeeImmutable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-              <folding>
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/immutable/ShallowCopyInJava.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="442">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -155,6 +199,18 @@
         <option value="$PROJECT_DIR$/src/com/ck/interview/questions/CyclicBarrierDemo.java" />
         <option value="$PROJECT_DIR$/src/com/ck/interview/questions/PrintNumbers.java" />
         <option value="$PROJECT_DIR$/src/com/ck/interview/questions/PrintNumbersUsingThreeThreads.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/interview/questions/GFG1.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/interview/questions/UnModifiableCollectionExample.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/interview/questions/Threadexample.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/interview/questions/ProducerConsumerExample.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/interview/questions/TestDeadlockExample1.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/interview/questions/DeadLockExample.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/interview/questions/java/DeadLockExample.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/interview/questions/ds/Array0s1sProgram.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/interview/questions/ds/Node.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/interview/questions/ds/LinkedListTraversal.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/interview/questions/ds/SinglyLinkedListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/interview/questions/ds/SortAbsolutelySortedLL.java" />
       </list>
     </option>
   </component>
@@ -172,13 +228,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="DsAndAlgo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DsAndAlgo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DsAndAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DsAndAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="Notes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DsAndAlgo" type="b2602c69:ProjectViewProjectNode" />
@@ -206,11 +266,29 @@
               <item name="ck" type="462c0819:PsiDirectoryNode" />
               <item name="questions" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DsAndAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DsAndAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ck" type="462c0819:PsiDirectoryNode" />
+              <item name="questions" type="462c0819:PsiDirectoryNode" />
+              <item name="ds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DsAndAlgo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DsAndAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ck" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,13 +313,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintNumbersUsingThreeThreads">
-    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ck.interview.questions.CountDownLatchDemo" />
+  <component name="RunManager" selected="Application.Array0s1sProgram">
+    <configuration name="Array0s1sProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ck.interview.questions.ds.Array0s1sProgram" />
       <module name="DsAndAlgo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ck.interview.questions.*" />
+          <option name="PATTERN" value="com.ck.interview.questions.ds.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,11 +328,11 @@
       </method>
     </configuration>
     <configuration name="CyclicBarrierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ck.interview.questions.CyclicBarrierDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.ck.interview.questions.java.CyclicBarrierDemo" />
       <module name="DsAndAlgo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ck.interview.questions.*" />
+          <option name="PATTERN" value="com.ck.interview.questions.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,25 +340,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOddTwoThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ck.interview.questions.EvenOddTwoThreads" />
+    <configuration name="DeadLockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ck.interview.questions.java.DeadLockExample" />
       <module name="DsAndAlgo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ck.interview.questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EvenOddTwoThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ck.interview.questions.EvenOddTwoThreads" />
-      <module name="DsAndAlgo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ck.interview.questions.*" />
+          <option name="PATTERN" value="com.ck.interview.questions.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,11 +354,24 @@
       </method>
     </configuration>
     <configuration name="PrintNumbersUsingThreeThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ck.interview.questions.PrintNumbersUsingThreeThreads" />
+      <option name="MAIN_CLASS_NAME" value="com.ck.interview.questions.java.PrintNumbersUsingThreeThreads" />
       <module name="DsAndAlgo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ck.interview.questions.*" />
+          <option name="PATTERN" value="com.ck.interview.questions.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ck.interview.questions.java.ProducerConsumerExample" />
+      <module name="DsAndAlgo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ck.interview.questions.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,11 +381,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array0s1sProgram" />
+        <item itemvalue="Application.DeadLockExample" />
+        <item itemvalue="Application.ProducerConsumerExample" />
         <item itemvalue="Application.PrintNumbersUsingThreeThreads" />
         <item itemvalue="Application.CyclicBarrierDemo" />
-        <item itemvalue="Application.CountDownLatchDemo" />
-        <item itemvalue="Application.EvenOddTwoThreads" />
-        <item itemvalue="Application.EvenOddTwoThreads" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +406,7 @@
     <frame x="-7" y="-7" width="1295" height="653" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2574899" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26153848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -356,35 +434,6 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49959514" weight="0.32821497" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32821497" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.3915547" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.39923224" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32821497" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50040483" side_tool="true" weight="0.32821497" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32955465" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.24939272" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout-to-restore>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DsAndAlgo$EvenOddTwoThreads.ic" NAME="EvenOddTwoThreads Coverage Results" MODIFIED="1631175771229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -392,58 +441,103 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/CustomMarkerInterfaceExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/immutable/Course.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/immutable/Course.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/immutable/CourseDeep.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/immutable/CourseDeep.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/immutable/DeepCopyInJava.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/immutable/DeepCopyInJava.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/immutable/Address.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/immutable/Address.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/immutable/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/immutable/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/immutable/ShallowCopyInJava.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/immutable/StudentDeep.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="170">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/immutable/EmployeeImmutable.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/LimitedHashSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/EvenOddTwoThreads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/PrintNumbersUsingThreeThreads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/UnModifiableCollectionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="4" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#227#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/ProducerConsumerExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/EmployeeSortingQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/RemoveArrayListDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="85" selection-start-line="16" selection-start-column="85" selection-end-line="16" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/immutable/EmployeeImmutable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
           <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
           <folding>
             <element signature="e#282#283#0" expanded="true" />
@@ -452,76 +546,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/EmployeeSortingQuestion.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/immutable/ShallowCopyInJava.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="85" column="34" selection-start-line="85" selection-start-column="34" selection-end-line="85" selection-end-column="34" />
-          <folding>
-            <element signature="e#1292#1293#0" expanded="true" />
-            <element signature="e#1352#1353#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/RemoveArrayListDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="85" selection-start-line="18" selection-start-column="85" selection-end-line="18" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/immutable/StudentDeep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/EvenOddTwoThreads.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#1175#1176#0" expanded="true" />
-            <element signature="e#1242#1243#0" expanded="true" />
-            <element signature="e#1334#1335#0" expanded="true" />
-            <element signature="e#1400#1401#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/LimitedHashSet.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/AutoClosableExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="1" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/EvenOddTwoThreads.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/CountDownLatchDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="157">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/CountDownLatchDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/CustomMarkerInterfaceExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        <state relative-caret-position="-7">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/CyclicBarrierDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/CyclicBarrierDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/java/DeadLockExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/Array0s1sProgram.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
-          <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/PrintNumbersUsingThreeThreads.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ck/linkedlist/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/linkedlist/LinkedListTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="35" selection-start-line="2" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/LinkedListTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/SinglyLinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/linkedlist/SinglyLinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/SortAbsolutelySortedLL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
