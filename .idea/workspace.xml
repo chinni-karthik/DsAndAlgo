@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1f632ed-93e4-4bb7-9b81-12d528b8f272" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/ds/BalancedBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/ds/FirstNonRepeatingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ck/interview/questions/ds/PreserveSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/final450/450Final.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ck/_final450/arrays/KthSmallestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ck/_final450/arrays/MinMaxOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ck/_final450/arrays/ReverseArrayRecurssive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ck/_final450/arrays/SortZerosOnesTwos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/DS/DataStructuresNotes.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/DS/DataStructuresNotes.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/InterviewQuestions/DS Interview Questions.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/InterviewQuestions/DS Interview Questions.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/InterviewQuestions/~$ Interview Questions.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/InterviewQuestions/~$ Interview Questions.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ck/_final450/arrays/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ck/_final450/arrays/ReverseArrayIterative.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,91 +23,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/Array0s1sProgram.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ck/_final450/arrays/ReverseArrayIterative.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            <state relative-caret-position="204">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/linkedlist/Node.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ck/_final450/arrays/ReverseArrayRecurssive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="218">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="2" selection-end-line="26" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/linkedlist/LinkedListTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" selection-start-line="2" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/LinkedListTraversal.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ck/_final450/arrays/MinMaxOfArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/linkedlist/SinglyLinkedListNode.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ck/_final450/arrays/KthSmallestNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/SortAbsolutelySortedLL.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/PreserveSpace.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/BalancedBrackets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+            <state relative-caret-position="150">
+              <caret line="31" column="1" lean-forward="true" selection-start-line="6" selection-end-line="31" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/FirstNonRepeatingChar.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ck/_final450/arrays/SortZerosOnesTwos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -127,6 +85,7 @@
       <find>EmployeeImmutable</find>
       <find>main</find>
       <find>int i = 0; i &lt; 90-'A'; i++</find>
+      <find>start</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -170,6 +129,13 @@
         <option value="$PROJECT_DIR$/src/com/ck/interview/questions/ds/BalancedBrackets.java" />
         <option value="$PROJECT_DIR$/src/com/ck/interview/questions/ds/GFG.java" />
         <option value="$PROJECT_DIR$/src/com/ck/interview/questions/ds/FirstNonRepeatingChar.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/_final450/arrays/ReverseArray.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/_final450/arrays/ReverseArrayIterative.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/_final450/arrays/ReverseArrayRecurssive.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/_final450/arrays/MinMaxOfArray.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/_final450/arrays/KthLargestNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/_final450/arrays/KthSmallestNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/ck/_final450/arrays/SortZerosOnesTwos.java" />
       </list>
     </option>
   </component>
@@ -187,7 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,17 +164,6 @@
             <path>
               <item name="DsAndAlgo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DsAndAlgo" type="462c0819:PsiDirectoryNode" />
-              <item name="Notes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DsAndAlgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DsAndAlgo" type="462c0819:PsiDirectoryNode" />
-              <item name="Notes" type="462c0819:PsiDirectoryNode" />
-              <item name="DS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DsAndAlgo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DsAndAlgo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -230,7 +185,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ck" type="462c0819:PsiDirectoryNode" />
-              <item name="questions" type="462c0819:PsiDirectoryNode" />
+              <item name="_final450" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DsAndAlgo" type="b2602c69:ProjectViewProjectNode" />
@@ -238,24 +193,28 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="ck" type="462c0819:PsiDirectoryNode" />
-              <item name="questions" type="462c0819:PsiDirectoryNode" />
-              <item name="ds" type="462c0819:PsiDirectoryNode" />
+              <item name="_final450" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Notes/final450" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.ck.interview.questions.immutable" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHubRepo\DsAndAlgo\Notes\final450" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -270,13 +229,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstNonRepeatingChar">
-    <configuration name="Array0s1sProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ck.interview.questions.ds.Array0s1sProgram" />
+  <component name="RunManager" selected="Application.SortZerosOnesTwos">
+    <configuration name="KthSmallestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ck._final450.arrays.KthSmallestNumber" />
       <module name="DsAndAlgo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ck.interview.questions.ds.*" />
+          <option name="PATTERN" value="com.ck._final450.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BalancedBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ck.interview.questions.ds.BalancedBrackets" />
+    <configuration name="MinMaxOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ck._final450.arrays.MinMaxOfArray" />
       <module name="DsAndAlgo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ck.interview.questions.ds.*" />
+          <option name="PATTERN" value="com.ck._final450.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeadLockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ck.interview.questions.java.DeadLockExample" />
+    <configuration name="ReverseArrayIterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ck._final450.arrays.ReverseArrayIterative" />
       <module name="DsAndAlgo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ck.interview.questions.java.*" />
+          <option name="PATTERN" value="com.ck._final450.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,12 +269,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstNonRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ck.interview.questions.ds.FirstNonRepeatingChar" />
+    <configuration name="ReverseArrayRecurssive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ck._final450.arrays.ReverseArrayRecurssive" />
       <module name="DsAndAlgo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ck.interview.questions.ds.*" />
+          <option name="PATTERN" value="com.ck._final450.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PreserveSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ck.interview.questions.ds.PreserveSpace" />
+    <configuration name="SortZerosOnesTwos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ck._final450.arrays.SortZerosOnesTwos" />
       <module name="DsAndAlgo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ck.interview.questions.ds.*" />
+          <option name="PATTERN" value="com.ck._final450.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirstNonRepeatingChar" />
-        <item itemvalue="Application.BalancedBrackets" />
-        <item itemvalue="Application.PreserveSpace" />
-        <item itemvalue="Application.Array0s1sProgram" />
-        <item itemvalue="Application.DeadLockExample" />
+        <item itemvalue="Application.SortZerosOnesTwos" />
+        <item itemvalue="Application.KthSmallestNumber" />
+        <item itemvalue="Application.MinMaxOfArray" />
+        <item itemvalue="Application.ReverseArrayRecurssive" />
+        <item itemvalue="Application.ReverseArrayIterative" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +322,7 @@
     <frame x="-7" y="-7" width="1295" height="653" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2631579" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2777328" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -373,7 +332,7 @@
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49959514" weight="0.32821497" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32821497" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3915547" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3915547" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39923224" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -391,6 +350,35 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2777328" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49959514" weight="0.32821497" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32821497" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.3915547" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39923224" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32821497" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50040483" side_tool="true" weight="0.32821497" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32955465" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.24939272" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DsAndAlgo$EvenOddTwoThreads.ic" NAME="EvenOddTwoThreads Coverage Results" MODIFIED="1631175771229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -554,7 +542,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/Array0s1sProgram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
+        <state>
           <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
@@ -596,29 +584,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/SortAbsolutelySortedLL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
+        <state relative-caret-position="272">
           <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/PreserveSpace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
+        <state relative-caret-position="646">
           <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/BalancedBrackets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/FirstNonRepeatingChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        <state relative-caret-position="286">
+          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/interview/questions/ds/BalancedBrackets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/_final450/arrays/ArraysTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ck/_final450/arrays/ReverseArrayIterative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/_final450/arrays/ReverseArrayRecurssive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="2" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/_final450/arrays/MinMaxOfArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/_final450/arrays/KthSmallestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="6" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ck/_final450/arrays/SortZerosOnesTwos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
