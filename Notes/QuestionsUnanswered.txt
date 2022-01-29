@@ -1,0 +1,13 @@
+1- What is Idempotency??
+
+Idempotency is an important thing while building a fault-tolerant RESTful API.
+
+No matter, how many times you call, the result is the same. This is the meaning of Idempotency.
+
+For example, you had hit post request and it fails some how. We need to figure where exactly is the failure.
+Is it at sending request or at updating db.
+
+But, for put request, you can hit multiple times without worrying about , if it actually failed or not.
+
+Options, get, head , delete and put are Idempotent
+Post and patch are not Idempotent.
