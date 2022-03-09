@@ -21,15 +21,15 @@ class NumberRunnable implements Runnable {
     int threadNumber;
     static volatile int number = 0;
 
-    NumberRunnable(PrintNumbersUsingThreeThreads obj, int result) {
+    NumberRunnable(PrintNumbersUsingThreeThreads obj, int threadNumber) {
         this.obj = obj;
-        this.threadNumber = result;
+        this.threadNumber = threadNumber;
     }
 
     @Override
     public void run() {
         synchronized (obj) {
-            while (number < PrintNumbersUsingThreeThreads.MAX_NUMBERS - 2) {
+            while (number < PrintNumbersUsingThreeThreads.MAX_NUMBERS-2) {
                 while (number % 3 != threadNumber) {
                     try {
                         obj.wait();
